@@ -1,4 +1,9 @@
 # Runamicon-Demo
+
+<img width="1887" height="957" alt="Main" src="https://github.com/user-attachments/assets/30fcaaed-0518-44df-8d7f-505dc5ee603f" />
+
+<img width="1887" height="950" alt="Gameplay" src="https://github.com/user-attachments/assets/2fbffb32-164e-41a0-9fa5-b749ba45fa46" />
+
 EN
 
 Runamicon is an original 2D game project developed collaboratively by two students using C++ and the SFML (Simple and Fast Multimedia Library) framework.
@@ -92,3 +97,5 @@ Runamicon — это авторская игра, полностью основ�
 
 Готовая версия игры доступна во вкладке Releases в виде ZIP-архива.
 Для запуска распакуйте архив и запустите файл .exe.
+
+
